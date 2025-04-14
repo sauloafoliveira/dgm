@@ -60,19 +60,6 @@ Observe um caso ilustrativo -- o número entre parênteses representa o peso da 
 | Luizinho |     C     |       A       |       B       |       B       |    8,0     |
 | Donald   |     B     |       D       |       C       |       C       |    4,5     |
 
-<small>Por questões éticas, com a finalidade de preservar a verdadeira identidade dos discentes, ocultaremos os nomes dos alunos. Assim, a identificação será por meio do número de matrícula, só que de forma truncada.</small>
-
-|                   | Média parcial | Resumo | Perceptron | MLP  | Prova |
-| ----------------- | ------------- | ------ | ---------- | ---- | ----- |
-|                   |               | 1      | 1          | 2    | 2     |
-| \*\*\*\*\*\*\*060 | 9,6           | A      | B          | A    | A     |
-| \*\*\*\*\*\*\*300 | #VALUE!       | B      |            |      | C     |
-| \*\*\*\*\*\*\*164 | 8,3           | B      | B          | A    | B     |
-| \*\*\*\*\*\*\*229 | 7,5           | B      | B          | A    | C     |
-| \*\*\*\*\*\*\*067 | 8,7           | A      | B          | A    | B     |
-| \*\*\*\*\*\*\*210 | #VALUE!       | A      | B          | A    |       |
-| \*\*\*\*\*\*\*172 | 8,3           | B      | B          | A    | B     |
-
 ## Cronograma e Conteúdo Programático
 
 > Este é o plano de estudos da turma de 2025 do curso (em construção).
@@ -80,34 +67,19 @@ Observe um caso ilustrativo -- o número entre parênteses representa o peso da 
 
 | **TIPO**  | **Data** | **Descrição**                                           | **Material** |
 | --------- | -------- | ------------------------------------------------------- | ------------ |
-| Aula      | 14/4     | Introdução a modelos generativos                        |  [Slides](https://docs.google.com/presentation/d/1d0anEQEiUGor9KmMmyMf2YuNwWs1U-xlgg-7Byovmmc/edit?usp=sharing)  • [Atividade](atividades/resumo_paper.md) • [Artigo: An Introduction to Deep Generative Modeling](https://arxiv.org/abs/2103.05180)            |
-| -         | 15/4     | Repasso                                                 |              |
-| -         | 21/4     | FERIADO                                                 |              |
-| -         | 22/4     | Repasso                                                 |              |
+| Aula      | 15/4     | Introdução à Aprendizagem profunda                        |  [Slides](https://docs.google.com/presentation/d/1zTfnrLA7xyylOnYB28RNAldQZWhyprYIGcfai4q4OB8/edit?usp=sharing)  • [Atividade](atividades/resumo.md) • [Artigo do Pedro Domingos](https://dl.acm.org/doi/pdf/10.1145/2347736.2347755)            |
 | Aula      | 28/4     | Regressão logística & Naïve Bayes                       |              |
-| -         | 29/4     | Repasso                                                 |              |
 | Aula      | 5/5      | GMM                                                     |              |
-| -         | 6/5      | Repasso                                                 |              |
 | Aula      | 12/5     | PyTorch/Otimizadores                                    |              |
-| -         | 13/5     | Repasso                                                 |              |
 | Aula      | 19/5     | Seleção de Modelos e Projeto de Experimentos            |              |
-| -         | 20/5     | Repasso                                                 |              |
 | Avaliação | 26/5     | Prova LogReg, NB e Tarefas                              |              |
-| -         | 27/5     | Repasso                                                 |              |
 | Aula      | 2/6      | Redes convolucionais                                    |              |
-| -         | 3/6      | Repasso                                                 |              |
 | Aula      | 9/6      | Redes convolucionais famosinhas                         |              |
-| -         | 10/6     | Repasso                                                 |              |
 | Aula      | 16/6     | Problemas comuns                                        |              |
-| -         | 17/6     | Repasso                                                 |              |
 | Aula      | 23/6     | Modelos autorregressivos                                |              |
-| -         | 24/6     | Repasso                                                 |              |
 | Aula      | 21/7     | Redes autocodificadoras e Redes adversárias generativas |              |
-| -         | 22/7     | Repasso                                                 |              |
 | Aula      | 28/7     | Modelos de Difusão                                      |              |
-| -         | 29/7     | Repasso                                                 |              |
 | Aula      | 4/8      | Avaliação de modelos generativos                        |              |
-| -         | 5/8      | Repasso                                                 |              |
 | Avaliação | 11/8     | Trabalho final                                          |              |
 |           | 12/8     | Repasso                                                 |              |
 
