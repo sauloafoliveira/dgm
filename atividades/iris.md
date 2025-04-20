@@ -46,7 +46,7 @@ Assuma que:
 - P(Classe) é estimado a partir dos dados (frequência relativa),
 - P(Comprimento da pétala ∣ Classe) também é estimado a partir das frequências observadas,
 - O objetivo é determinar a classe mais provável (MAP).
-> Dica: utilize a regra de Bayes com não normalizada.
+> Dica: utilize a regra de Bayes sem a evidência - não normalizada.
 
 
 
