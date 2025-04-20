@@ -67,8 +67,8 @@ Observe um caso ilustrativo -- o número entre parênteses representa o peso da 
 
 | **TIPO**  | **Data** | **Descrição**                                           | **Material** |
 | --------- | -------- | ------------------------------------------------------- | ------------ |
-| Aula      | 15/4     | Introdução à Aprendizagem profunda                        |  [Slides](https://docs.google.com/presentation/d/1zTfnrLA7xyylOnYB28RNAldQZWhyprYIGcfai4q4OB8/edit?usp=sharing)  • [Atividade](atividades/resumo.md) • [Artigo do Pedro Domingos](https://dl.acm.org/doi/pdf/10.1145/2347736.2347755)            |
-| Aula      | 28/4     | Regressão logística & Naïve Bayes                       |              |
+| Aula      | 15/4     | Introdução à Aprendizagem profunda                        |  [Slides](https://docs.google.com/presentation/d/1zTfnrLA7xyylOnYB28RNAldQZWhyprYIGcfai4q4OB8/edit?usp=sharing) • [Atividade](atividades/resumo.md) • [Artigo do Pedro Domingos](https://dl.acm.org/doi/pdf/10.1145/2347736.2347755)            |
+| Aula      | 22/4     |    Revisão apressada de Probabilidade                    | [Slides](https://docs.google.com/presentation/d/1d0anEQEiUGor9KmMmyMf2YuNwWs1U-xlgg-7Byovmmc/edit?usp=sharing) • [Atividade](atividades/iris.md)              |
 | Aula      | 5/5      | GMM                                                     |              |
 | Aula      | 12/5     | PyTorch/Otimizadores                                    |              |
 | Aula      | 19/5     | Seleção de Modelos e Projeto de Experimentos            |              |
