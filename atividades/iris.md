@@ -52,7 +52,7 @@ Assuma que:
 
 ## 3. Considere agora um modelo de regressão logística binária onde o atributo de entrada é o **comprimento da pétala** (sem discretizar). O modelo é dado por:
 
-$$P(y-1 \mid x) = \dfrac{1}{1+\exp(-(\alpha x + \beta ))}$$
+$$P(y=1 \mid x) = \dfrac{1}{1+\exp(-(\alpha x + \beta ))}$$
 
    em que:
 
